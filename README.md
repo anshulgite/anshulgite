@@ -4,7 +4,7 @@
 
 <br/>
 
-<table align="center">
+<!-- <table align="center">
   <tr>
     <td>
       <img src="https://github-readme-stats.vercel.app/api?username=anshulgite&show_icons=true&theme=dark" height="170" />
@@ -21,7 +21,7 @@
   </a>
 </div>
 
-<br/>
+<br/> -->
 
 <h2 align="center">Activity Graph</h2>
 
