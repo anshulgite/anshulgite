@@ -15,8 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<div align="center">
 <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=anshulgite&theme=dark&border_radius=12.2&exclude_days=Sun%2CSat" alt="GitHub Streak" /></a>
-
+</div>
 ## Activity Graph
 
 <div align="center">
