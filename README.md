@@ -20,6 +20,6 @@ Here are some ideas to get you started:
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=subhashadhikari057&bg_color=000d1a&color=38bdf8&line=0ea5e9&point=ffffff&hide_border=true" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=anshulgite&bg_color=000d1a&color=38bdf8&line=0ea5e9&point=ffffff&hide_border=true" />
 
 </div>
